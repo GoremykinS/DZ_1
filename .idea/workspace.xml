@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9501a31-dcb6-4415-9016-d605177c1aa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DRF/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/DRF/backend/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DZ_1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="25F72yVQAmR0DGZrU1vwjBQrqqV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DRF/backend/backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DRF/backend/library" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9501a31-dcb6-4415-9016-d605177c1aa2" name="Default Changelist" comment="" />
+      <created>1645110777173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645110777173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="24" width="800" height="675" key="#Inspections" timestamp="1645113902630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="24" width="800" height="675" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1645113902630" />
+    <state x="335" y="0" width="695" height="726" key="CommitChangelistDialog2" timestamp="1645961737412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="335" y="0" width="695" height="726" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1645961737412" />
+    <state x="466" y="121" width="424" height="482" key="FileChooserDialogImpl" timestamp="1645464136904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="121" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1645464136904" />
+    <state x="552" y="262" key="Github.ShareDialog" timestamp="1645983030040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="552" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1645983030040" />
+    <state x="452" y="72" width="451" height="580" key="Github.UntrackedFilesDialog" timestamp="1645983043549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="72" width="451" height="580" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1645983043549" />
+    <state x="73" y="0" key="SettingsEditor" timestamp="1645983018925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="73" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1645983018925" />
+    <state x="352" y="12" width="672" height="676" key="search.everywhere.popup" timestamp="1645961320667">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="12" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1645961320667" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DRF/backend/library/models.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
